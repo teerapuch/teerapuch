@@ -18,5 +18,5 @@ Watching movies, playing games with my son."
 
 Recent releases on my blog
 - <a href="https://teerapuch.com/life/small-better/">Small Better ใช้ความเล็กให้เป็นประโยชน์</a>
-- <a href="https://teerapuch.com/developer/deno-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b8%97%e0%b8%b3%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b8%a3%e0%b8%b9%e0%b9%89%e0%b8%88%e0%b8%b1%e0%b8%81%e0%b8%81%e0%b8%b1/>ทำความรู้จักกับ Deno</a>
+- <a href="https://teerapuch.com/developer/deno-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b8%97%e0%b8%b3%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b8%a3%e0%b8%b9%e0%b9%89%e0%b8%88%e0%b8%b1%e0%b8%81%e0%b8%81%e0%b8%b1>ทำความรู้จักกับ Deno</a>
 - <a href="https://teerapuch.com/developer/laravel-framework-%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%94%e0%b8%b5/">Framework ที่ดี ต้องมี Laravel อยู่ 1 ในนั้นด้วยก็เพราะ</a>
