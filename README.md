@@ -43,37 +43,37 @@ Watching movies, playing games with my son."
 
 <a href="https://play.google.com/store/apps/details?id=com.teerapuch.snapasrs" target="_blank">Link Application</a>
 
-Application and Data
-React Native with Expo For Mobile Application 
-Pure PHP For Backend And API Integration with Web Service REST API
-HTML, CSS, JavaScript For Frontend with Bootstrap Framework
+#### Application and Data :: \
+React Native with Expo For Mobile Application \
+Pure PHP For Backend And API Integration with Web Service REST API \
+HTML, CSS, JavaScript For Frontend with Bootstrap Framework \
 
-DevOps
-Github and Git For Version Control
-Visual Studio Code For Coding
-Expo For Deploy Application
+#### DevOps :: \
+Github and Git For Version Control \
+Visual Studio Code For Coding \
+Expo For Deploy Application \
 
-Business Tools
-Tello
-Figma
-G Suite
+#### Business Tools :: \
+Tello \
+Figma \
+G Suite 
 
 ### TU-GET CBT Application On Google Play And iOS Store
 :: Technologies Stack  ::
 
 <a href="https://play.google.com/store/apps/details?id=com.tu.tuget" target="_blank">Link Application</a>
 
-Application and Data :: \
-React Native with Expo For Mobile Application  :: \
-Pure PHP For Backend And API Integration with Web Service REST API :: \
-HTML, CSS, JavaScript For Frontend with Bootstrap Framework :: \
+#### Application and Data :: \
+React Native with Expo For Mobile Application  \
+Pure PHP For Backend And API Integration with Web Service REST API  \
+HTML, CSS, JavaScript For Frontend with Bootstrap Framework \
 
-DevOps :: \
-Github and Git For Version Control :: \
-Visual Studio Code For Coding :: \
-Expo For Deploy Application :: \
+#### DevOps :: \
+Github and Git For Version Control  \
+Visual Studio Code For Coding  \
+Expo For Deploy Application  \
 
-Business Tools :: \
-Tello :: \
-Figma :: \
-G Suite :: \
+#### Business Tools :: \
+Tello  \
+Figma  \
+G Suite  \
