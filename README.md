@@ -9,6 +9,7 @@
 - 💻 I’m currently strong in Node.js and React For Web Development Front end and Backend
 - 💻 I’m currently strong in React Native For Hybrid Mobile Development iOS and Android
 - 💻 I’m currently strong in Laravel and Codeigniter For PHP Development Web Application
+- 💻 I’m currently strong in MySQL, MSSQL For Database Application
 - 💻 I’m currently strong in API Integration with Other Application on Web Service
 - 📫 Write blog @ https://teerapuch.com 
 - 😄 Upload video tutorial in <a href="https://www.youtube.com/channel/UCvCbqgFKT8Al-M1kjgs75Gw">youtube</a> 
@@ -62,17 +63,17 @@ G Suite
 
 <a href="https://play.google.com/store/apps/details?id=com.tu.tuget" target="_blank">Link Application</a>
 
-Application and Data
-React Native with Expo For Mobile Application 
-Pure PHP For Backend And API Integration with Web Service REST API
-HTML, CSS, JavaScript For Frontend with Bootstrap Framework
+Application and Data :: \
+React Native with Expo For Mobile Application  :: \
+Pure PHP For Backend And API Integration with Web Service REST API :: \
+HTML, CSS, JavaScript For Frontend with Bootstrap Framework :: \
 
-DevOps
-Github and Git For Version Control
-Visual Studio Code For Coding
-Expo For Deploy Application
+DevOps :: \
+Github and Git For Version Control :: \
+Visual Studio Code For Coding :: \
+Expo For Deploy Application :: \
 
-Business Tools
-Tello
-Figma
-G Suite
+Business Tools :: \
+Tello :: \
+Figma :: \
+G Suite :: \
