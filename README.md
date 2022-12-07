@@ -43,17 +43,17 @@ Watching movies, playing games with my son."
 
 <a href="https://play.google.com/store/apps/details?id=com.teerapuch.snapasrs" target="_blank">Link Application</a>
 
-#### Application and Data :: \
+#### Application and Data :: 
 React Native with Expo For Mobile Application \
 Pure PHP For Backend And API Integration with Web Service REST API \
-HTML, CSS, JavaScript For Frontend with Bootstrap Framework \
+HTML, CSS, JavaScript For Frontend with Bootstrap Framework 
 
-#### DevOps :: \
+#### DevOps :: 
 Github and Git For Version Control \
 Visual Studio Code For Coding \
-Expo For Deploy Application \
+Expo For Deploy Application 
 
-#### Business Tools :: \
+#### Business Tools :: 
 Tello \
 Figma \
 G Suite 
@@ -63,17 +63,17 @@ G Suite
 
 <a href="https://play.google.com/store/apps/details?id=com.tu.tuget" target="_blank">Link Application</a>
 
-#### Application and Data :: \
+#### Application and Data :: 
 React Native with Expo For Mobile Application  \
 Pure PHP For Backend And API Integration with Web Service REST API  \
-HTML, CSS, JavaScript For Frontend with Bootstrap Framework \
+HTML, CSS, JavaScript For Frontend with Bootstrap Framework 
 
-#### DevOps :: \
+#### DevOps :: 
 Github and Git For Version Control  \
 Visual Studio Code For Coding  \
-Expo For Deploy Application  \
+Expo For Deploy Application  
 
-#### Business Tools :: \
+#### Business Tools :: 
 Tello  \
 Figma  \
-G Suite  \
+G Suite  
