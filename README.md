@@ -1,4 +1,4 @@
-#TEERAPUCH (ธีรภัทร เกษสกุล)
+# TEERAPUCH (ธีรภัทร เกษสกุล)
 
 <img src="https://images.unsplash.com/photo-1529603992250-a55acb77d146?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80" />
 
@@ -23,8 +23,11 @@ Specialty in Web Application. <br>
 I like writing work and life. <br>
 Watching movies, playing games with my son."
 
-👨 :: Recent releases on my blog
+### 👨 :: Recent releases on my blog
 
+- <a href="https://teerapuch.com/developer/how-to-upgrade-expo-sdk/" target="_blank">How To Upgrade Expo SDK In Exit Project</a>
+- <a href="https://teerapuch.com/technology/best-practices-data-backup-to-follow/" target="_blank">Best Practices Data Backup ที่ควรปฏิบัติตาม</a> 
+- <a href="https://teerapuch.com/developer/rest-api-json-server/" target="_blank">REST API สร้างด้วย JSON Server</a>
 - <a href="https://teerapuch.com/developer/good-developer/" target="_blank">Good Developer ไม่ควรมองข้ามเรื่องต่อไปนี้</a>
 - <a href="https://teerapuch.com/life/remote-job-wfh/" target="_blank">Remote Job 100% Work From Home ตลอดดีจริงไหม?</a>
 - <a href="https://teerapuch.com/developer/multiple-class-css-in-react-native/" target="_blank">Multiple Class CSS ใน React Native ทำอย่างไร</a>
@@ -36,7 +39,7 @@ Watching movies, playing games with my son."
 - <a href="https://teerapuch.com/developer/10-basic-command-docker/" target="_blank">10 คำสั่งพื้นฐาน ที่ Docker มือใหม่ควรรู้</a>
 - <a href="https://teerapuch.com/developer/where-my-php-ini/" target="_blank">WHERE IS MY PHP INI</a>
 
-👨 :: My Latest Projects
+### 👨 :: My Latest Projects
 
 ### MenamASRS Application On Google Play And iOS Store
 :: Technologies Stack  ::
@@ -58,6 +61,8 @@ Tello \
 Figma \
 G Suite 
 
+- - - - 
+
 ### TU-GET CBT Application On Google Play And iOS Store
 :: Technologies Stack  ::
 
@@ -77,3 +82,22 @@ Expo For Deploy Application
 Tello  \
 Figma  \
 G Suite  
+
+- - - - 
+
+### Dusit Thani Website
+:: Technologies Stack  ::
+
+<a href="https://dtc.ac.th/" target="_blank">Link Website</a>
+
+#### Responsibilities ::
+- Add New Font For Eng Language
+- Bug Fixed POP Up Privacy Page
+- Bug Fixed Page For Guidance Teacher
+- Bug Fixed Icon Payment Page
+- Bug Fixed Register Page Missing In Eng Language
+
+#### Application and Data :: 
+WordPress with Plugins WooCommerce, Elementor, Yoast SEO, Polylang 
+
+- - - -
