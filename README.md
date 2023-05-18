@@ -83,7 +83,20 @@ Tello  \
 Figma  \
 G Suite  
 
-- - - - 
+- - - -
+### Gram Laboratory
+:: Technologies Stack  ::
+
+<a href="[https://glam-laboratory.com/](https://glam-laboratory.com/)" target="_blank">Link Website</a>
+
+#### Responsibilities ::
+- Set Hosting
+- Development All Page
+
+#### Application and Data :: 
+WordPress with Plugins Elementor, Wordfence, RankMath SEO, NitroPack, Google Tag Manager 
+
+- - - -
 
 ### Dusit Thani Website
 :: Technologies Stack  ::
