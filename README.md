@@ -87,7 +87,7 @@ G Suite
 ### Gram Laboratory
 :: Technologies Stack  ::
 
-<a href="[https://glam-laboratory.com/](https://glam-laboratory.com/)" target="_blank">Link Website</a>
+<a href="https://glam-laboratory.com/" target="_blank">Link Website</a>
 
 #### Responsibilities ::
 - Set Hosting
